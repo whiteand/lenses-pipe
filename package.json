@@ -1,0 +1,19 @@
+{
+  "name": "lenses-pipe",
+  "version": "1.0.0",
+  "description": "Made pipe of lenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ramda",
+    "pipe",
+    "lens"
+  ],
+  "author": "AndrewBeletskiy",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
